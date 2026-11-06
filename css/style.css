@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-image: url("/images/bg-header-desktop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.toplogo{
+    text-align: center;
+    padding: 50px;
+}
+
+.topper{
+    text-align: center;
+}
+
+.topper h1{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:xxx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.topper p{
+    font-size: larger;
+    color: rgb(163, 177, 177);
+    padding: 20px;
+}
+
+.buttons{
+    text-align: center;
+    padding: 15px; 
+}
+
+.button1{
+    width: 200px;
+    height: 50px;
+    color: aliceblue;
+    background-color:rgb(105, 207, 173);
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 50px;
+    font-size: larger;
+}
+
+.button2{
+    width: 200px;
+    height: 50px;
+    color: aliceblue;
+    background-color:rgb(145, 95, 188);
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 50px;
+    font-size: larger;
+}
+
+.topper2{
+    text-align: center;
+    padding: 100px;
+}
+
+.topper2 h2{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.topper2 p{
+    font-size: larger;
+    color: rgb(163, 177, 177);
+    padding: 20px;
+}
+
+
+.computer{
+     display: inline-block;
+     width: 55%;
+     vertical-align: top;
+ 
+}
+
+.side{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.sec1{
+    padding-bottom: 50px;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.sec2{
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+
+.sec3{
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.sec1 h3{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sec2 h3{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sec3 h3{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sec1 p{
+    font-size: larger;
+    color: rgb(149, 163, 163);
+    padding: 20px;
+}
+
+.sec2 p{
+    font-size: larger;
+    color: rgb(149, 163, 163);
+    padding: 20px;
+}
+
+.sec3 p{
+    font-size: larger;
+    color: rgb(149, 163, 163);
+    padding: 20px;
+}
+
+.topper3{
+    text-align: center;
+    padding: 100px;
+}
+
+.topper3 h2{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.topper3 p{
+    font-size: larger;
+    color: rgb(163, 177, 177);
+    padding: 20px;
+}
+
+.secondimg {
+    text-align: center;
+}
+
+.topper4{
+    text-align: center;
+    padding: 100px;
+}
+
+.topper4 h2{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.topper4 p{
+    font-size: larger;
+    color: rgb(163, 177, 177);
+    padding: 20px;
+}
+
+.icon1{
+    font-size: larger;
+    color: rgb(149, 163, 163);
+}
+
+.card1{
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+}
+
+.card2{
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+}
+
+.card3{
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+}
+
+.cards1{
+    text-align: center;
+}
+
+.card1 img{
+     padding: 20px;
+}
+
+.card2 img{
+     padding: 20px;
+}
+
+.card3 img{
+     padding: 20px;
+}
+
+.card1 h3{
+     padding: 15px;
+}
+
+.card2 h3{
+     padding: 15px;
+}
+
+.card3 h3{
+     padding: 15px;
+}
+
+.cards2 .card11{
+    text-align: center;
+    display: inline-block;
+    padding:45px;
+}
+
+.cards2 .card22{
+    text-align: center;
+    display: inline-block;  
+    padding:45px;
+}
+
+.cards2 .card33{
+    text-align: center;
+    display: inline-block;
+    padding:45px;
+}
+
+.cards2 .card44{
+    text-align: center;
+    display: inline-block;
+    padding:45px;
+}
+
+.cards2 .card55{
+    text-align: center;
+    display: inline-block;
+    padding:45px;
+}
+
+.cards2{
+    text-align: center;
+    padding: 40px;
+}
+
+.footer{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.footer h1{
+    color: rgb(94, 102, 102);
+    font-weight:bold;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer p{
+    font-size: larger;
+    color: rgb(163, 177, 177);
+    padding-top: 50px;
+}
+
+.buttons{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.button1{
+    width: 200px;
+    height: 50px;
+    color: aliceblue;
+    background-color:rgb(105, 207, 173);
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 50px;
+    font-size: larger;
+}
+
+.button2{
+    width: 200px;
+    height: 50px;
+    color: aliceblue;
+    background-color:rgb(145, 95, 188);
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 50px;
+    font-size: larger;
+}
+
+.lastlogo{
+    display: inline-block;
+    padding-right: 70px;
+    padding-left: 80px;
+}
+
+.lastlogo img{
+    height: 70px;
+}
+
+.words1{
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 200px;
+}
+
+.words1 p{
+    padding: 5px;
+    color: rgb(99, 103, 103);
+}
+
+.words2{
+    display: inline-block;
+    padding-right: 80px;
+    padding-left: 70px;
+}
+
+.words2 p{
+    padding: 5px;
+    color: rgb(99, 103, 103);
+}
+
+.words3{
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.words3 p{
+    padding-top: 5px;
+    color: rgb(99, 103, 103);
+}
+
+.social{
+    display: inline-block;
+      padding-right: 40px;
+    padding-left: 210px;
+}
+
+.face{
+    display: inline-block;
+    padding: 10px;
+}
+
+.twit{
+    display: inline-block;
+    padding: 10px;
+}
+
+.insta{
+    display: inline-block;
+    padding: 10px;
+}
+
+.last{
+    background-color: rgba(113, 118, 118, 0.189);
+}
